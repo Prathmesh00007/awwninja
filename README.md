@@ -5,16 +5,48 @@ You can stream the demo directly here:
 👉 [Watch on GitHub Pages]
 (https://prathmesh00007.github.io/awwninja/)
 
-# AwwNews-AI-Powered Audio Briefs from News & Reddit
+# AwwNews – Voice-First AI News Companion  
+**Murf.ai TTS + Integrated ASR + Multi-Source Intelligence**
 
-Intelligent news aggregation meets conversational AI. AwwNews autonomously collects current headlines and community perspectives from Reddit, synthesizing them into immersive audio briefings delivered through advanced text-to-speech technology.
+AwwNews is a voice-driven, AI-powered news companion that converts the internet’s noise into **short, human-like audio briefings**.  
 
-## Key Capabilities
+It aggregates headlines from premium sources, extracts live Reddit discussions, summarizes everything using an LLM, and finally produces **studio-quality Murf.ai audio**—all controlled through **integrated ASR voice commands**.
 
-- **Multi-Source News Aggregation**: Access premium news content with paywall bypassing through advanced proxy infrastructure
-- **Real-Time Social Intelligence**: Extract authentic community perspectives and discussions directly from Reddit's live platform data
-- **Natural Audio Generation**: Convert synthesized news briefs into natural-sounding speech using AI text-to-speech engines
-- **Intelligent Web Scraping**: Leverage sophisticated proxy and browser automation technologies for reliable data collection
+---
+
+## 🎥 Demo
+
+Watch the live product demo:  
+👉 **[Click here](https://prathmesh00007.github.io/awwninja/)**  
+or open `demo.mp4` inside the repository.
+
+---
+
+# ✨ Key Capabilities
+
+### 🎙 Fully Voice-First (ASR + Murf)
+- Speak commands like:  
+  **“Give me today’s tech and world news in 90 seconds.”**
+- Integrated **ASR pipeline** converts speech → text.
+- **Murf.ai** produces natural, anchor-style voice output optimized for listening on the go.
+- Supports optional ElevenLabs fallback.
+
+### 📰 Multi-Source News Aggregation
+- Fetches content from multiple premium + paywalled sites.
+- Uses **Bright Data Web Unlocker** & browser automation to bypass strict JS/paywalls.
+- Auto-extracts story summaries, tags, and sentiment.
+
+### 👥 Reddit Social Intelligence
+- Captures community opinions from active threads.
+- Extracts top comments, debates, and trending narratives in real-time.
+
+### 🧠 LLM-Powered Synthesis
+- Google Gemini blends news + Reddit + metadata into:
+  - Speakable scripts  
+  - Topic-aware summaries  
+  - Multi-source narratives  
+
+---
 
 ## System Requirements
 
