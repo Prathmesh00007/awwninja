@@ -3,6 +3,9 @@
 Intelligent news aggregation meets conversational AI. AwwNews autonomously collects current headlines and community perspectives from Reddit, synthesizing them into immersive audio briefings delivered through advanced text-to-speech technology.
 
 ## Visual Overview
+<video src="demo.mp4" width="600" controls>
+  Your browser does not support the video tag.
+</video>
 
 
 ## Key Capabilities
