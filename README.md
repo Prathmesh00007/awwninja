@@ -1,16 +1,13 @@
-# Check DEMO VIDEO in the repo itself. It is named as demo.mp4
-
-# AwwNews-AI-Powered Audio Briefs from News & Reddit
-
-Intelligent news aggregation meets conversational AI. AwwNews autonomously collects current headlines and community perspectives from Reddit, synthesizing them into immersive audio briefings delivered through advanced text-to-speech technology.
-
-## Visual Overview
+# Check DEMO VIDEO in the repo itself, it is named as demo.mp4 or through the link provided below:
 ## 🎥 Demo Video
 
 You can stream the demo directly here:  
 👉 [Watch on GitHub Pages]
 (https://prathmesh00007.github.io/awwninja/)
 
+# AwwNews-AI-Powered Audio Briefs from News & Reddit
+
+Intelligent news aggregation meets conversational AI. AwwNews autonomously collects current headlines and community perspectives from Reddit, synthesizing them into immersive audio briefings delivered through advanced text-to-speech technology.
 
 ## Key Capabilities
 
